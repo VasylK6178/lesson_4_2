@@ -1,0 +1,177 @@
+.main {
+    height: 60px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+}
+.main2 {
+    height:30px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+
+}
+.main2-1 {
+    height:30px;
+    width: 400px;
+    }
+.zzz-1 {height: 15px;
+    width: 400px;
+    display: flex;
+    justify-content: flex-end;
+}
+.line-1 {height: 6px;
+    width: 50px;
+    position: relative;
+    margin-right: 40px;
+    right: 30px;
+}
+
+.zzz {
+    height: 15px;
+    width: 400px;
+    display: flex;
+    align-items: flex-end   }
+
+.line {
+    height: 7px;
+    width: 60px;
+    position: relative;
+    margin-right: 30px;
+    bottom: 3px;
+   }
+
+.mini {
+    height: 30px;
+    width: 75px;
+    position: relative;
+    left: 50px;
+    }
+.bgs {
+    background:silver;
+}
+.bgm {background: midnightblue;}
+.bkg {background: palevioletred;}
+.br {border-radius: 7%;}
+.big {
+    height: 200px;
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+.one {
+    height: 200px;
+    width: 190px;}
+.two {
+    height: 200px;
+    width: 400px;
+}
+
+.h {
+    height: 30px;
+    width:400px;
+    position: relative;
+    top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hn {height: 30px;
+    width:400px;
+    position: relative;
+    top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;}
+
+
+.mini2 {
+    height: 20px;
+    width: 100px;}
+.mikro {
+    height: 30px;
+    width: 800px;
+}
+.vbig {
+    height: 400px;
+    width: 800px;
+    display: flex;
+}
+.lft {
+    height: 400px;
+    width: 400px;
+}
+.rt {height: 400px;
+    width: 400px;
+
+}
+.qvt {
+    height: 100px;
+    width: 200px;
+    margin-bottom: 10px;
+    position: relative;
+    left: 100px;
+}
+.sml {
+    height: 70px;
+    width: 400px;
+   display: flex;
+
+}
+.fqvad {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 100px;
+margin-left: 15px;
+}
+.qvr {
+    height: 70px;
+    width: 70px;
+    margin-bottom: 5px;
+}
+.cr {height: 200px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    }
+
+
+.crcl {height: 100px;
+    width: 100px;
+    margin-left: 80px;
+    position: relative;
+   right: 80px;
+
+}
+.rc {border-radius: 50%}
+
+.dwn {
+    height: 130px;
+    width: 800px;
+
+}
+
+.dwh {
+    height: 65px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+}
+.dwd {
+    height: 65px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+}
+.zz {
+    height: 6px;
+    width: 30px;
+    position: relative;
+    margin-right: 30px;
+    left: 100px;
+}
+
